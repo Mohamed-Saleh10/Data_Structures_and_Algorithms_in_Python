@@ -1,2 +1,2 @@
-# Data_Structures_and_Algorithms_in_Python
-Mohamed-Saleh10/Data_Structures_and_Algorithms_in_Python
+Introduction to common data structures (linked lists, stacks, queues, graphs) and algorithms (search, sorting, recursion, dynamic programming) in Python. This course will help you prepare for coding interviews and assessments.
+
